@@ -1,1 +1,7 @@
-# documentacao
+ Casos de Uso:
+Um diagrama de caso de uso é excelente para: Mostrar a fronteira do sistema no que está dentro ou fora dele.
+Com o objetivo da  visão geral do comportamento do sistema, como ele é usado e por quem.
+Dentro dos casos de uso ,é necessário colocar multiplicação de associação;A comunicação é baseada entre ator principal e secundário ,a ligação por classes e herança entre atores.
+Como essa realização desse casos de uso,vai ser necessário os relacionamentos extend e include, para ajudar a compreensão do caso.      
+Será documentado os casos de uso,caso a documentação estiver decidida como será feita os parâmetros do projeto,pois a metodologia que vai ser realizada vai ser metodologias ágeis.
+
