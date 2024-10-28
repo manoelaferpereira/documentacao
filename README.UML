@@ -1,1 +1,17 @@
+   UML 
+  A utilização do UML na documentação deste software ,pois,utilizo essa linguagem de modelagem modificada ,para a maior visualização e para descrever o projeto que está sendo desenvolvido,essa é uma ferramenta de arquitetura.
+
+Para criar um diagrama UML para um sistema como o Trello, você pode considerar diferentes tipos de diagramas, dependendo do que deseja documentar. Aqui estão algumas sugestões:
+
+Atores principais:
+- Usuário
+- Administrador
+
+Casos de uso:
+- Criar um quadro
+- Adicionar um cartão
+- Mover um cartão
+- Marcar um cartão como concluído
+- Adicionar um comentário
+- Convidar colaboradores
 
